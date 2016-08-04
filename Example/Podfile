@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DBew_Example' do
+  pod 'DBew', :path => '../'
+
+  target 'DBew_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
