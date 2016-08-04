@@ -1,0 +1,6 @@
+framework module Pods_DBew_Tests {
+  umbrella header "Pods-DBew_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

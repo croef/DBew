@@ -1,0 +1,16 @@
+PODS:
+  - DBew (0.1.0)
+
+DEPENDENCIES:
+  - DBew (from `../`)
+
+EXTERNAL SOURCES:
+  DBew:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DBew: 30c9b5b02b613ca755ce148d1a8ad502d86cec27
+
+PODFILE CHECKSUM: 63c497d1034d4d203b5d1b2cce505dccda9a30fa
+
+COCOAPODS: 1.0.1
